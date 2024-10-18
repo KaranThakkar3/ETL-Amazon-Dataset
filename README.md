@@ -8,6 +8,12 @@ This project showcases the implementation of an ETL pipeline with the following 
 2. **Transform**: Clean and process the data by removing unwanted characters from prices, converting ratings to numeric values, and handling missing data.
 3. **Load**: Load the cleaned dataset into an SQLite database for further analysis.
 
+Below is a screenshot of the data successfully loaded into the SQLite database, and a sample query to view the result.
+
+![SQLite Snapshot](https://github.com/user-attachments/assets/55870dd1-8dc0-4c2e-acd5-5ea3a2213f20)
+
+
+
 ## Technologies Used
 - **Python 3.x**
 - **Pandas**: For data manipulation and transformation.
